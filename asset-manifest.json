@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Hangman/static/css/main.d81588f9.css",
+    "main.css": "/Hangman/static/css/main.a8c08b91.css",
     "main.js": "/Hangman/static/js/main.6c77440b.js",
     "static/media/hang-man-logo.png": "/Hangman/static/media/hang-man-logo.e3d7a230121066a9335d.png",
     "index.html": "/Hangman/index.html",
-    "main.d81588f9.css.map": "/Hangman/static/css/main.d81588f9.css.map",
+    "main.a8c08b91.css.map": "/Hangman/static/css/main.a8c08b91.css.map",
     "main.6c77440b.js.map": "/Hangman/static/js/main.6c77440b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d81588f9.css",
+    "static/css/main.a8c08b91.css",
     "static/js/main.6c77440b.js"
   ]
 }
